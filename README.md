@@ -1,5 +1,5 @@
 # lab2.hw_najafi
-**developer: Mohammadsadegh Najafi :9823092 , Mohammadhosein fatehi :9823067  **
+**developer: Mohammadsadegh Najafi :9823092 , Mohammadhosein fatehi :9823067**
 we do these homework by p controller first.
 we get the error of y,x and rotation and by a feedback we pass desired position.
 Both angular and linear velocities are controlled by controllers.
